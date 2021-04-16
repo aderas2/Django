@@ -7,3 +7,5 @@
 #django-admin startproject ournewproject ,to start new project in django
 #python manage.py runserver , to run our first server
 #python manage.py startapp ourapp
+#python manage.py migrate , for admin interface
+#python manage.py createsuperuser , to create super user for the admin console
